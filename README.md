@@ -1,7 +1,7 @@
-<h3 align="center"> Danilo </h3>
+<h3 align="center"> Danilo ( ͡° ͜ʖ ͡°) </h3>
 
 <p align="center">
-Software Developer | Currently looking for FT opportunities
+Software Developer | Carleton U CS Alumni | Currently looking for FT opportunities
 </p>
 
 # Tools and Tech. 👨‍💻 🛠 
