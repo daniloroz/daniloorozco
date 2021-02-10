@@ -1,10 +1,15 @@
 <h3 align="center"> Danilo ( ͡° ͜ʖ ͡°) </h3>
 
 <p align="center">
-Software Developer | Carleton U CS Alumni | Currently looking for FT opportunities
+ 💻 &nbsp; Software Developer
+ 📰 &nbsp; Recent CS Graduate
+ 🤖 &nbsp; Reading and learning new Tech everyday
+  <br/>
+ 🕵️‍♂️ &nbsp; Currently looking for FT opportunities
 </p>
 
-# Tools and Tech. 👨‍💻 🛠 
+
+### Tools and Tech. 👨‍💻 🛠 
 <br/>
 <p align="center">
 
