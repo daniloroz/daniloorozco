@@ -5,7 +5,6 @@
  📰 &nbsp; Recent CS Graduate
  🤖 &nbsp; Reading and learning new Tech everyday
   <br/>
- 🕵️‍♂️ &nbsp; Currently looking for FT opportunities
 </p>
 
 
